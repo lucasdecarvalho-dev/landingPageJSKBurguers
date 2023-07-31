@@ -28,7 +28,7 @@ body {
   justify-content: space-between;
   padding: 1px 40px;
   box-shadow: 0 0.1rem 0.5rem #ccc;
-  width: 100%;
+  width: 100vw;
   background: var(--white);
   transition: all 0.5s;
   position: fixed;
@@ -91,7 +91,7 @@ body {
 }
 
 .home {
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   display: flex;
   align-items: center;
